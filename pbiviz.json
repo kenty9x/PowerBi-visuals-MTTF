@@ -1,0 +1,25 @@
+{
+  "visual": {
+    "name": "circlecard",
+    "displayName": "circlecard",
+    "guid": "circlecard4AD8D1E1DA0943AEB18E1E59B920MTTF",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "Circle card",
+    "supportUrl": "test.com",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "3.2.0",
+  "author": {
+    "name": "Thong Le",
+    "email": "kenty9x@gmail.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [
+  ],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "stringResources": []
+}
